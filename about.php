@@ -39,7 +39,7 @@ include 'header.php';
 							<article>
 								<h2>The <span>Company</span></h2>
 								<!-- .team-list -->
-								<p>
+								<p class="p2">
 									iQube is an Applied Computer Science Research &amp; Development Company that aims to provide solutions to challenges that are locally relevant using state-of-the-art technologies.
 </p><p>iQube is made up of a team of multi-talented researchers, web and mobile application developers, graphics designers, network
 engineers and more. We love solving challenging software problems that require the application of fundamental principles in Computer
