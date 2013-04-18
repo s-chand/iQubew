@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>TTX- Tech Training eXpo</title>
+		<title>iQube | Infinite Qube Labs</title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 		<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
@@ -34,7 +34,7 @@
 			
 				 if(jQuery.browser.mobile)
 				{
-					window.location="mobile/index.html";
+					//window.location="mobile/index.html";
 				}
 				
 		</script>
@@ -45,28 +45,26 @@
 		<header>
 			<div class="container">
 				<!--<h1 style="font-weight:bolder"><a href="index.html">TTx-Tech Training eXpo</a></h1>-->
-				<a href="index.html"><img src="images2/logo3.png" alt="TTX" height="65px" align="center" style="margin-left: 20px;" /></a>
+				<a href="index.php"><img src="img/Final-Official-Logo (1).png" alt="TTX" height="75px" align="center" style="margin-left: 20px; " /></a>
 				<nav>
 					<ul>
 						
 						<li>
-							<a href="agenda.html">Agenda and projects</a>
+							<a href="about.php">About</a>
 						</li>
 						<li>
-							<a href="speakers.html">Speakers</a>
+							<a href="products.php">Products</a>
+						</li>
+						<li id="todrop">
+							<a href="services.php">Services</a>
 						</li>
 						<li>
-							<a href="sponsors.html">Sponsors</a>
+							<a href="#">What We Do</a>
 						</li>
 						<li>
-							<a href="contacts.html">Contact Us</a>
+							<a href="contact.php">Contact Us</a>
 						</li>
-						<li>
-							<a href="about.html">Organisers</a>
-						</li>
-						<li>
-							<a href="FAQ.html">FAQ</a>
-						</li>
+
 					</ul>
 				</nav>
 			</div>

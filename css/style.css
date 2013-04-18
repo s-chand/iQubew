@@ -250,7 +250,7 @@ header nav ul li a {
 	height: 67px;
 	line-height: 67px;
 	text-decoration: none;
-	width: 101px;
+width: 121px;/*Here was 101px before*/
 	text-align: center;
 	float: left;
 	background: #433b8f;

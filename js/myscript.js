@@ -23,3 +23,7 @@ $(document).ready(function() {
 	//function to blink text (recursion)
 //	effectFadeIn('#reg_left');
 });
+function doDropDown()
+{
+    
+}
