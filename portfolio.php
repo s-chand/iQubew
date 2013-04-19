@@ -9,11 +9,22 @@ include 'header.php';
     <h2>All iQube's offering</h2>
     <div class="activeSlide">
     	<div class="container">
-                    
-                    <div class="colleague">All</div>
-                    <div class="colleague">Services</div>
-                    <div class="colleague">Products</div>
-                    <div class="colleague">Solutions</div>
+                                        
+                    <div class="colleague"><span>Services</span><br/>
+                        Services are innovations proprietary to and owned by iQube. They are ideas we birth, design, implement,
+                        launch and manage. Services involve applications and transfer of the knowledge learnt from research in several
+                        fields of study which we translate into tangible software or systems that can solve common problems
+                    </div>
+                    <div class="colleague"><span>Products</span></br>
+                        Products are software developed from an adaptation of already existing technology or framework that is 
+                        customized and packaged for a partner. These partners buy these software that has been specifically tuned
+                         to suit their needs.
+                    </div>
+                    <div class="colleague"><span>Solutions</span></br>
+                        Solutions are bespoke / customized software for clients. 
+                        Solutions come in form of requirements specifications by 
+                        the clients and we find the best way to solve the client's need based on these requirements.
+                    </div>
                 </div>
     </div>
 </section>
