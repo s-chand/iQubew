@@ -14,13 +14,16 @@ include 'header.php';
             	<li><strong>Zip Code:</strong>+23401</li>
               <li><strong>Country:</strong>Nigeria</li>
               <li><strong>City:</strong>Lagos</li>
-              <li><strong>Telephone 1:</strong>+234 (803) 407 4979</li>
-              <li><strong>Telephone 2:</strong>+234 (803) 343 8870</li>
-              <li><strong>Telephone 3:</strong>+234 (706) 234 4351</li>
-              <li><strong>Telephone 4:</strong>+234 (816) 234 5436</li> 
-              <li><strong>Email:</strong><a href="mailto:detan.oyedele@gmail.com">detan.oyedele@gmail.com</a></li>
-              <li><strong>Email:</strong><a href="mailto:tofunmibabatunde@gmail.com">tofunmibabatunde@gmail.com</a></li>
-              <li><strong>Email:</strong><a href="mailto:samuel.i.okoroafor@gmail.com">samuel.i.okoroafor@gmail.com</a>
+              <li><strong>Phone</strong></li>
+                <li><strong></strong>+234 (803) 407 4979</li>
+              <li><strong></strong>+234 (803) 343 8870</li>
+              <li><strong></strong>+234 (706) 234 4351</li>
+              <li><strong></strong>+234 (816) 234 5436</li> 
+              <li><strong>Email:</strong></li>
+                <li><strong></strong></li>
+                <a href="mailto:detan.oyedele@gmail.com">detan.oyedele@gmail.com</a></li>
+              <li><strong></strong><a href="mailto:tofunmibabatunde@gmail.com">tofunmibabatunde@gmail.com</a></li>
+              <li><strong></strong><a href="mailto:samuel.i.okoroafor@gmail.com">samuel.i.okoroafor@gmail.com</a>
             </ul>
             <!-- /.contacts -->
           </aside>
