@@ -19,8 +19,22 @@ include 'header.php';
         	<!-- aside -->
           <aside>
             <h2>Test <span>Subpages</span></h2>
+             <article class="tabs">
+  <section id="tab1">
+    <h2><a href="#tab1">Tab 1</a></h2>
+    <p>This content appears on tab 1.</p>
+  </section>
+  <section id="tab2">
+    <h2><a href="#tab2">Tab 2</a></h2>
+    <p>This content appears on tab 2.</p>
+  </section>
+  <section id="tab3">
+    <h2><a href="#tab3">Tab 3</a></h2>
+    <p>This content appears on tab 3.</p>
+  </section>
+</article>
             <!-- loopedSlider begin -->
-            <div id="loopedSlider">	
+            <!--div id="loopedSlider">	
               <div class="wrap">
                 <div class="slides">
                   <div><a href="#"><img src="images/thumb3.jpg" alt=""></a></div>
@@ -34,7 +48,8 @@ include 'header.php';
               	<li><a href="#" class="previous">Previous Page</a></li>
               	<li><a href="#" class="next">Next Page</a></li>
               </ul>
-            </div>
+            </div-->
+
             <!-- loopedSlider end -->
           </aside>
           <!-- content -->

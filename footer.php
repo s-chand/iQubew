@@ -10,7 +10,6 @@
 				</div>
 			</div>
 		</footer>
-		<a href="." title="Permalink to this slide" class="deck-permalink">#</a>
 
 <!-- End extension snippets. -->
 

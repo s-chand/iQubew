@@ -2,11 +2,14 @@
 		<?php
 		include 'header.php';
 		?>
-		<section id="gallery">
+		<section id="gallery" style="margin-bottom">
 			<div class="container">
-				
-				
-
+				<section id="content">
+							<article style="margin-left: 40%">
+								<img style="margin-left: auto; margin-right: auto; border: none" src="img/Final-Official-Logo (1).png">
+							</article>
+							
+						</section>
 			</div>
 		</section>
 		<!-- /#gallery -->
@@ -17,19 +20,16 @@
 						<!-- aside -->
 						
 						<!-- content -->
-						<section id="content">
-							<article>
-								
+
 							</div>
-						</form>
+						</div>
 					</div>
+				</div>
 					<!-- preload the images -->
 					<div style='display:none'>
 						<img src='img/basic/x.png' alt='' />
 					</div>
-				</div>
-			</div>
-		</div>
+				
 		
 	<?php
 	include "footer.php"; 

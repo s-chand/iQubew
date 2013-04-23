@@ -67,7 +67,7 @@ aside {
 /* Footer */
 footer {
 	padding: 20px 0 22px 0;
-	border-top: 5px solid #eee;
+	border-top: .5px solid #eee;
 }
 
 /* Left & Right alignment */
@@ -1037,3 +1037,5 @@ em {
 {
 	background-color: #FCEDA7;
 }
+
+/* Uh oh*/
