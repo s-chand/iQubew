@@ -11,7 +11,11 @@ include 'header.php';
     	<div class="container">
                                         
                     <div class="colleague"><span>Services</span><br/>
-                       
+
+                       <article>
+
+                       </article>
+
                     </div>
                     <div class="colleague"><span>Products</span></br>
                        
@@ -24,7 +28,41 @@ include 'header.php';
 </section>
 
 <section class="slide">
+	<div class="span12" style="font-size:small">
     <h2>Services</h2>
+     <article class="span4 offset1" style="float:left">
+                        <h2>P2MU</h2>
+                        P2MU is a recommendation-based social network app.It connects you &amp; people you are looking for but don't know. It's a 
+recommendation-based social network app that helps you find and connect with new persons of interest to you.
+ 
+                       </article>
+                       <article class="span4 offset1" style="float:left">
+                        <h2>MMe</h2>
+                        MMe is a career self-discovery test that helps users discover their personality type, area of strength and their best possible career 
+path/jobs in the Nigerian Industry. 
+                       </article>
+                       <article class="span4 offset1" style="float:left">
+                        <h2>P2FX</h2>
+                       P2FX is a location-based app used to find POIs & shows their location relative to users location & preferences. P2FX means
+Pleased To Find 'X'. Where 'X' is any geo-tagged item/service or POI (Point of Interest).
+                       </article>
+                       <br/>
+                       <article class="span4 offset1" style="float:left">
+                        <h2>V2Pix</h2>
+                        V2Pix is a software that extract random pictures from a video file. It allows users the opportunity to upload a video and generate a
+desired number of pictures and their format from the video. V2Pix 
+                       </article>
+                       <article class="span4 offset2" style="float:left">
+                        <h2>SDP</h2>
+                        SDP employs a coaching based training / learning style to help and guide her users in learning a world class relevant technology
+skill in just 3 months. SDP is a community of knowledge-driven professionals in the IT industry who are willing and able to learn skills
+relevant to our society and their personal career goals and aspirations. 
+                       </article>
+                        <article class="span4 offset2" style="float:left">
+                        <h2>Long Codes</h2>
+                       LongCode is a cost effective way of interacting with your target audience via short message service using the popular Longcodes 
+                       </article>
+                      </div>
 </section>
 
 <section class="slide">

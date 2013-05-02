@@ -6,7 +6,7 @@
 			<div class="container">
 				<section id="content">
 							<article style="margin-left: 40%">
-								<img style="margin-left: auto; margin-right: auto; border: none" src="img/Final-Official-Logo (1).png">
+								<img style="margin-left: auto; margin-right: auto; border: none" src="img/iQube Logo.png" width="800px" height="100%">
 							</article>
 							
 						</section>
