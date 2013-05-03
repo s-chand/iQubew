@@ -27,6 +27,7 @@
 <script src="extensions/navigation/deck.navigation.js"></script>
 <script src="extensions/scale/deck.scale.js"></script>
 
+ 
 <!-- Initialize the deck. You can put this in an external file if desired. -->
 <script>
     $(function() {

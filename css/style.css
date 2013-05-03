@@ -1039,11 +1039,15 @@ em {
 }
 
 /* Uh oh*/
-.itemList
+.back
+{
+	width:200px;
+	background-image:url('../images2/click_here.gif') no-repeat center center;
+
+}
+.back:hover
 {
 	
 }
-.itemList:hover
-{
-	
-}
+/* Testing phase for the slider*/
+ 

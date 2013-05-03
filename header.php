@@ -35,7 +35,8 @@
 	
 	<!-- Transition theme. More available in /themes/transition/ or create your own. -->
 	<link rel="stylesheet" href="themes/transition/horizontal-slide.css">
-	
+	<!-- Required CSS for jQuery slider--Added by Sam-->
+		 <link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- Required Modernizr file -->
 	<script src="modernizr.custom.js"></script>
 		<!-- Contact Form CSS files -->
