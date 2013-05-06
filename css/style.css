@@ -13,6 +13,7 @@ body {
 	font-size: 0.9em;
 	line-height: 1.2em;
 	color: #242424;
+	
 }
 html {
 	min-width: 100%;
@@ -39,8 +40,8 @@ header {
 #gallery {
 	height: 470px;
 	overflow: hidden;
-	/*background: url(../images/gallerry-bg.gif) 0 0 repeat-x;
-	 /*background-color:#484095;*/
+	background: url(../images/gallerry-bg.gif) 0 0 repeat-x;
+	background-color:#484095;
 	background: rgb(255,255,255); /* Old browsers */
 	background: -moz-linear-gradient(45deg,  rgba(255,255,255,1) 0%, rgba(241,241,241,1) 50%, rgba(225,225,225,1) 51%, rgba(246,246,246,1) 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(241,241,241,1)), color-stop(51%,rgba(225,225,225,1)), color-stop(100%,rgba(246,246,246,1))); /* Chrome,Safari4+ */
@@ -187,11 +188,11 @@ h1 a {
 	text-decoration: none;
 }
 h2 {
-	font-size: 30px;
-	line-height: 1.2em;
+	font-size: 25px;
+	line-height: 1em;
 	font-weight: normal;
 	color: #212222;
-	margin-bottom: 22px;
+	margin-bottom: 12px;
 }
 h2 span {
 	color: #014D68;

@@ -28,13 +28,17 @@ include 'header.php';
 	</section>
 
 	<section class="slide">
-		<h2>Our Services</h2>
+		<!--h2>Our Services</h2-->
+		<h3 style="text-align:center">Our Services</h3>
 		<div class="span12" style="font-size:small">
 
 			<div class="span4 offset1" style="float:left">
-				<h2>P2MU</h2>
+				
+				<h2><a href="http://iqubebase.com/p2mu" target="_blank">P2MU</a></h2>
+				
 				P2MU is a recommendation-based social network app.It connects you &amp; people you are looking for but don't know. It's a
 				recommendation-based social network app that helps you find and connect with new persons of interest to you.
+				<img src="images2/top4.png" width="200px" height="350px" />
 
 			</div>
 			<div class="span4 offset1" style="float:left">
@@ -82,7 +86,7 @@ include 'header.php';
 			</div>
 			<br/>
 			<div class="back">
-				<a href="http://localhost:85/iqube/portfolio.php#slide-0">Back</a>
+				<a href="portfolio.php#slide-0">Back</a>
 			</div>
 		</div>
 	</section>

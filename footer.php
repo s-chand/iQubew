@@ -16,23 +16,12 @@
 
 <!-- Required JS files. -->
 <!--script src="jquery-1.7.2.min.js"></script-->
-<script src="core/deck.core.js"></script>
+<script type="text/javascript">
 
-<!-- Extension JS files. Add or remove as needed. -->
-<script src="core/deck.core.js"></script>
-<script src="extensions/hash/deck.hash.js"></script>
-<script src="extensions/menu/deck.menu.js"></script>
-<script src="extensions/goto/deck.goto.js"></script>
-<script src="extensions/status/deck.status.js"></script>
-<script src="extensions/navigation/deck.navigation.js"></script>
-<script src="extensions/scale/deck.scale.js"></script>
-
- 
-<!-- Initialize the deck. You can put this in an external file if desired. -->
-<script>
-    $(function() {
-        $.deck('.slide');
-    });
+   $('#image2-gallery').cycle({
+    fx:'shuffle',
+    delay: -4000
+});
 </script>
 	</body>
 </html>
