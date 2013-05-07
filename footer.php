@@ -53,12 +53,11 @@
 </script>
 <script type="text/javascript">
 	$("#image2-gallery").cycle({
-		fx:    'curtainX', 
-    sync:  false, 
-    delay: -2000
+		fx:    'fade'
+    
 	});
 	$("#phones").cycle({
-		fx:    'zoom', 
+		fx:    'fade', 
     sync:  false, 
     delay: -2000 
 		
