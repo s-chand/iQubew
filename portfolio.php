@@ -10,19 +10,17 @@ include 'header.php';
 		<div class="activeSlide">
 			<div class="container">
 
-				<div class="colleague" onclick="window.location='portfolio.php#slide-1'">
-					<span>Services</span>
-					<br/>
+				<div>
+					<a href="#slide-1"><img src="images2/servicebutton_03.gif" /></a>
+					<a href="#slide-2"><img src="images2/buttons_06.gif" /></a>
+					<a href="#slide-3"><img src="images2/buttons_08.gif" /></a>
+					<!--h2 onclick="window.location='portfolio.php#slide-1'">Services</h2><br/>
+					
+					<a href="portfolio.php#slide-2"><h2>Products</h2></a></br>
 
-				</div>
-				<div class="colleague" onclick="window.location='portfolio.php#slide-2'">
-					<span>Products</span></br>
-
-				</div>
-				<div class="colleague" onclick="window.location='portfolio.php#slide-3'">
-					<span>Solutions</span></br>
-
-				</div>
+					<h2  onclick="window.location='portfolio.php#slide-3'">Solutions</h2></br-->
+</div>
+				
 			</div>
 		</div>
 	</section>
@@ -30,6 +28,7 @@ include 'header.php';
 	<section class="slide">
 		<!--h2>Our Services</h2-->
 		<h3 style="text-align:center">Our Services</h3>
+		
 		<div class="span12" style="font-size:small">
 
 			<div class="span4 offset1" style="float:left">
@@ -38,7 +37,13 @@ include 'header.php';
 				
 				P2MU is a recommendation-based social network app.It connects you &amp; people you are looking for but don't know. It's a
 				recommendation-based social network app that helps you find and connect with new persons of interest to you.
-				<img src="images2/top4.png" width="200px" height="350px" />
+				<!--img src="images2/top4.png" width="200px" height="350px" /-->
+				<div id="phones">
+					<img src="images2/samsunghome.jpg" width="200px" height="350px" />
+					<img src="images2/top4.png" width="220px" height="350px"/>
+					<img src="images2/top3.png" width="220px" height="350px" />
+					<img src="images2/samsung_home.jpg" width="220px" height="350px" />
+				</div>
 
 			</div>
 			<div class="span4 offset1" style="float:left">
@@ -85,8 +90,8 @@ include 'header.php';
 				other problems that are also spelling errors.
 			</div>
 			<br/>
-			<div class="back">
-				<a href="portfolio.php#slide-0">Back</a>
+			<div class="back" style="float:right">
+				<a href="index.php"><img src="images2/button_03.gif" /></a>
 			</div>
 		</div>
 	</section>
@@ -121,6 +126,9 @@ include 'header.php';
 					of some other initial tasks
 				</p>
 			</article>
+			<div class="back" style="float:right">
+				<a href="index.php"><img src="images2/button_03.gif" /></a>
+			</div>
 		</div>
 	</section>
 	<section class="slide">
@@ -165,6 +173,12 @@ include 'header.php';
 					delivering information real-time to her readers
 				</p>
 			</article>
+			<div class="back" style="float:right">
+				<a href="index.php"><img src="images2/button_03.gif" /></a>
+			</div>
+			<!--div class="back" style="float:left">
+				<a href="index.php"><img src="images2/button_03.gif" /></a>
+			</div-->
 		</div>
 	</section>
 
@@ -184,12 +198,7 @@ include 'header.php';
 	</p>
 
 	<!-- deck.goto snippet -->
-	<form action="." method="get" class="goto-form">
-		<label for="goto-slide">Go to slide:</label>
-		<input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
-		<datalist id="goto-datalist"></datalist>
-		<input type="submit" value="Go">
-	</form>
+	
 </div>
 </div>
 <?php

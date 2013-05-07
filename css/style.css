@@ -67,7 +67,7 @@ aside {
 
 /* Footer */
 footer {
-	padding: 20px 0 22px 0;
+	padding: 10px 0 12px 0;
 	border-top: .5px solid #eee;
 }
 
@@ -189,10 +189,10 @@ h1 a {
 }
 h2 {
 	font-size: 25px;
-	line-height: 1em;
+	line-height: 0.9em;
 	font-weight: normal;
 	color: #212222;
-	margin-bottom: 12px;
+	margin-bottom: 6px;
 }
 h2 span {
 	color: #014D68;
@@ -1038,7 +1038,10 @@ em {
 {
 	background-color: #FCEDA7;
 }
-
+.colleague2
+{
+	text-align:justify
+}
 /* Uh oh*/
 .back
 {
