@@ -20,7 +20,7 @@ include 'header.php';
 
 					<h2  onclick="window.location='portfolio.php#slide-3'">Solutions</h2></br-->
 </div>
-				
+				<a href="index.php" style="float:left"><img src="images2/button_03.gif" /></a>
 			</div>
 		</div>
 	</section>
@@ -91,7 +91,7 @@ include 'header.php';
 			</div>
 			<br/>
 			<div class="back" style="float:right">
-				<a href="index.php"><img src="images2/button_03.gif" /></a>
+				<a href="#slide-0"><img src="images2/porfolio_03.gif" /></a>
 			</div>
 		</div>
 	</section>
@@ -127,7 +127,7 @@ include 'header.php';
 				</p>
 			</article>
 			<div class="back" style="float:right">
-				<a href="index.php"><img src="images2/button_03.gif" /></a>
+				<a href="#slide-0"><img src="images2/porfolio_03.gif" /></a>
 			</div>
 		</div>
 	</section>
@@ -174,7 +174,7 @@ include 'header.php';
 				</p>
 			</article>
 			<div class="back" style="float:right">
-				<a href="index.php"><img src="images2/button_03.gif" /></a>
+				<a href="#slide-0"><img src="images2/porfolio_03.gif" /></a>
 			</div>
 			<!--div class="back" style="float:left">
 				<a href="index.php"><img src="images2/button_03.gif" /></a>

@@ -19,12 +19,12 @@
 							<img src="images2/Big-Data.jpg" width="1000px" height="450px" />
 							<img src="images2/Social-Innovation.jpg" width="1000px" height="450px" />
 						</div-->
-						<div id="information" style="width:400px;background-color:#FDFDFD ;float:left; max-width:400px;border-radius:12px 12px 0px 12px;margin-left:15px;margin-right:15px">
+						<div id="information" style="width:400px;background-color:#FDFDFD ;float:left; max-width:400px;max-height:470px;border-radius:12px 12px 0px 12px;margin-left:15px;margin-right:15px">
 							<div id="header" style="margin-left:15px;margin-right:15px;margin-top:20px">
 								<h2>iQube Product updates</h2>
 							</div>
 							<hr/>
-							<div id="body" style="border-left:#000000 ;border-style:solid;margin-left:13px">
+							<div id="body" style="border-left:#000000 ;border-style:solid;margin-left:13px;margin-top:10px;margin-bottom:10px">
 								<p>....iQube news</p>
 								<p>....iQube news</p>
 								<p>....iQube news</p>
@@ -34,8 +34,8 @@
 							</div>
 							<div id="legger" style="background-color:#000000;color:#FFFFFF;margin-bottom:-2px;border-radius:8px 0px 8px 0px">
 								<h2>Social media</h2>
-								
-								<p>Join us on: <img src="images2/facebook.png" /><img src="images2/twitter.png" /></p>
+								<br/>
+								<p>Join us on: <a href="http://www.facebook.com/iqubebase"><img src="images2/facebook.png" /></a><a href="http://www.twitter.com/iQubebase"><img src="images2/twitter.png" /></a></p>
 							</div>
 						</div>
 						</div>
@@ -49,20 +49,7 @@
 							
 						</section-->
 						
-			
-		<!-- /#gallery -->
-		<div class="main-box">
-			<div class="container">
-				<div class="inside">
-					<div class="wrapper">
-						<!-- aside -->
-						
-						<!-- content -->
-
-							</div>
-						</div>
-					</div>
-				</div>
+	
 					<!-- preload the images -->
 					<div style='display:none'>
 						<img src='img/basic/x.png' alt='' />

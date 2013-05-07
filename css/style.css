@@ -38,7 +38,7 @@ header {
 
 /*Gallery*/
 #gallery {
-	height: 470px;
+	height: 480px;
 	overflow: hidden;
 	background: url(../images/gallerry-bg.gif) 0 0 repeat-x;
 	background-color:#484095;

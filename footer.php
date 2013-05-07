@@ -1,11 +1,28 @@
 <footer>
 			<div class="container">
 				<div class="wrapper">
-					<div class="fleft">
-						&copy; 2013
+					
+					<div>
+						<table class="table table-bordered">
+							<tr>
+								<td>Careers</td>
+								<td>Research</td>
+								<td>Staff</td>
+							</tr>
+							<tr>
+								<td>Products</td>
+								<td>Partners</td>
+								<td>Powered by iQube labs</td>
+							</tr>
+							<tr>
+								<td>About</td>
+								<td>Services</td>
+								<td>FAQ</td>
+							</tr>
+						</table>
 					</div>
 					<div class="fright">
-						Powered by iQube labs
+						
 					</div>
 				</div>
 			</div>
