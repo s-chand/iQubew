@@ -6,31 +6,37 @@ include 'header.php';
 	<!-- Begin slides. Just make elements with a class of slide. -->
 
 	<section class="slide">
-		<h2>All iQube's offering</h2>
+		<h2 style="font-size:large">All iQube's offering</h2>
 		<div class="activeSlide">
 			<div class="container">
 
 				<div>
-					<a href="#slide-1"><img src="images2/servicebutton_03.gif" /></a>
-					<a href="#slide-2"><img src="images2/buttons_06.gif" /></a>
-					<a href="#slide-3"><img src="images2/buttons_08.gif" /></a>
+					<a href="#slide-1"><img src="images2/projects_03.gif" /></a>
+					<a href="#slide-2"><img style="border-radius:12px" src="images2/buttons_06.gif" /></a>
+					
+					<a href="#slide-3"><img style="border-radius:12px" src="images2/buttons_08.gif" /></a>
+					<a href="#slide-4"><img style="border-radius:12px" src="images2/project_004_03.gif" /></a>
+					
 					<!--h2 onclick="window.location='portfolio.php#slide-1'">Services</h2><br/>
 					
 					<a href="portfolio.php#slide-2"><h2>Products</h2></a></br>
 
 					<h2  onclick="window.location='portfolio.php#slide-3'">Solutions</h2></br-->
 </div>
-				<a href="index.php" style="float:left"><img src="images2/button_03.gif" /></a>
+				<a href="index.php" style="float:left"><img style="border-radius:12px" width="170px" height="40px" style="float:left" src="images2/button_03.gif" /></a>
+				<div style="float:right">
+				<img src="images2/Final-Official-Logo (1).png" width="200px" />
+			</div>
 			</div>
 		</div>
 	</section>
 
 	<section class="slide">
 		<!--h2>Our Services</h2-->
-		<h3 style="text-align:center">Our Services</h3>
+		
 		
 		<div class="span12" style="font-size:small">
-
+<h2 style="text-align:center;">Our Projects</h2>
 			<div class="span4 offset1" style="float:left">
 				
 				<h2><a href="http://iqubebase.com/p2mu" target="_blank">P2MU</a></h2>
@@ -39,15 +45,16 @@ include 'header.php';
 				recommendation-based social network app that helps you find and connect with new persons of interest to you.
 				<!--img src="images2/top4.png" width="200px" height="350px" /-->
 				<div id="phones">
-					<img src="images2/samsunghome.jpg" width="200px" height="350px" />
+					<img src="images2/samsung_home.jpg" width="200px" height="350px" />
 					<img src="images2/top4.png" width="220px" height="350px"/>
 					<img src="images2/top3.png" width="220px" height="350px" />
-					<img src="images2/samsung_home.jpg" width="220px" height="350px" />
+					<img src="images2/samsunghome.jpg" width="220px" height="350px" />
+					
 				</div>
 
 			</div>
 			<div class="span4 offset1" style="float:left">
-				<h2>MMe</h2>
+				<h2><a href="http://iqubebase.com/mmeapp/" target="_blank">MMe</a></h2>
 				MMe is a career self-discovery test that helps users discover their personality type, area of strength and their best possible career
 				path/jobs in the Nigerian Industry.
 			</div>
@@ -91,12 +98,15 @@ include 'header.php';
 			</div>
 			<br/>
 			<div class="back" style="float:right">
-				<a href="#slide-0"><img src="images2/porfolio_03.gif" /></a>
+				<a href="#slide-0"><img style="border-radius:12px" src="images2/porfolio_03.gif" /></a>
+			</div>
+			<div style="float: left">
+				<a href=""><img src="images2/Final-Official-Logo (1).png" width="200px"/></a>
 			</div>
 		</div>
 	</section>
 
-	<section class="slide">
+	<section class="slide" style="font-size:small">
 		<h2>Our Products</h2>
 		<div class="span12" style="font-size:small">
 			<article class="span4 offset1" style="float:left">
@@ -107,14 +117,15 @@ include 'header.php';
 				</p>
 			</article>
 			<article class="span4 offset1" style="float:left">
-				<h2>GeoSMS</h2>
+				<h2><a href="http://p2fx.net/gsms/" target="_blank">GeoSMS</a></h2>
 				<p>
 					GeoSMS is a product proudly developed
 					to convert
 					<br/>
 					street addresses into
 					<br/>
-					longitude and latitude. How it works?
+					longitude and latitude. How it works?<br/>
+					<a href="http://p2fx.net/gsms/">Read more</a>
 				</p>
 			</article>
 			<article class="span4 offset1" style="float:left">
@@ -126,12 +137,15 @@ include 'header.php';
 					of some other initial tasks
 				</p>
 			</article>
+			<div style="float:left">
+				<a href=""><img src="images2/Final-Official-Logo (1).png" width="200px"/></a>
+			</div>
 			<div class="back" style="float:right">
 				<a href="#slide-0"><img src="images2/porfolio_03.gif" /></a>
 			</div>
 		</div>
 	</section>
-	<section class="slide">
+	<section class="slide" style="font-size:small">
 		<h2>Our Solutions</h2>
 		<div class="span12" style="font-size:small">
 			<article class="span4 offset1" style="float:left">
@@ -173,6 +187,9 @@ include 'header.php';
 					delivering information real-time to her readers
 				</p>
 			</article>
+			<div style="float:left">
+				<a href=""><img src="images2/Final-Official-Logo (1).png" width="200px"/></a>
+			</div>
 			<div class="back" style="float:right">
 				<a href="#slide-0"><img src="images2/porfolio_03.gif" /></a>
 			</div>
@@ -181,7 +198,34 @@ include 'header.php';
 			</div-->
 		</div>
 	</section>
+	<section class="slide" style="font-size:small">
+		<h2>Our Technologies / Skills</h2>
+		
+			<ul style='font-size:medium; font-family:"OpenSans","Helvetica"'>
+				<li><h3>At iQube labs,we work with the following technologies</h3></li>
+				<li>PHP</li>
+				<li>MySQL/Oracle/MongoDB</li>
+				<li>Hadoop for Big data</li>
+				<li>Java</li>
+				<li>Perl</li>
+				<li>Python</li>
+				<li>Ruby (ROR)</li>
+				
+			</ul>
 
+			<ul style='font-size:medium; font-family:"OpenSans","Helvetica"'>
+				<li><h3>We also work on <br/>the following platforms</h3></li>
+				<li>Android</li>
+				<li>Linux</li>
+				<li>Windows/Windows8</li>
+				<li>Windows Phone</li>
+				<li>Nokia (Symbian, S40)</li>
+			</ul>
+		
+		<div class="back" style="float:right">
+				<a href="#slide-0"><img src="images2/porfolio_03.gif" /></a>
+			</div>
+		</section>
 	<!-- End slides. -->
 
 	<!-- Begin extension snippets. Add or remove as needed. -->

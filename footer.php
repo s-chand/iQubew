@@ -2,28 +2,29 @@
 			<div class="container">
 				<div class="wrapper">
 					
-					<div>
-						<table class="table table-bordered">
+					<div style="text-align:center;width:1000px;margin-left:10%">
+						<table class="table">
 							<tr>
 								<td>Careers</td>
-								<td>Research</td>
+								<td><a href="portfolio.php#slide-1">Research</a></td>
 								<td>Staff</td>
-							</tr>
-							<tr>
-								<td>Products</td>
-								<td>Partners</td>
-								<td>Powered by iQube labs</td>
-							</tr>
-							<tr>
-								<td>About</td>
 								<td>Services</td>
-								<td>FAQ</td>
+							</tr>
+							<tr>
+								<td><a href="portfolio.php#slide-2">Products</a></td>
+								<td>Partners</td>
+								<td><a href="index.php">Powered by iQube labs</a></td>
+								<td><a href="http://p2mu.net/blog">Blog</a></td>
+							</tr>
+							<tr>
+								<td><a href="about.php">About</a></td>
+								<td><a href="portfolio.php#slide-1">Projects<a/></td>
+								<td><a href="about.php">FAQ</a></td>
+								<td><a href="">Demos</a></td>
 							</tr>
 						</table>
 					</div>
-					<div class="fright">
-						
-					</div>
+					
 				</div>
 			</div>
 		</footer>
@@ -53,7 +54,7 @@
 </script>
 <script type="text/javascript">
 	$("#image2-gallery").cycle({
-		fx:    'fade'
+		fx:    'scrollRight'
     
 	});
 	$("#phones").cycle({

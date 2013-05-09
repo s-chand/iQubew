@@ -31,7 +31,7 @@
 	<link rel="stylesheet" href="extensions/scale/deck.scale.css">
 
 	<!-- Style theme. More available in /themes/style/ or create your own. -->
-	<link rel="stylesheet" href="themes/style/web-2.0.css">
+	<link rel="stylesheet" href="themes/style/swiss.css">
 	
 	<!-- Transition theme. More available in /themes/transition/ or create your own. -->
 	<link rel="stylesheet" href="themes/transition/horizontal-slide.css">
@@ -70,7 +70,7 @@
 						</li>
 
 						<li>
-							<a href="wedo.php">What We Do</a>
+							<a href="http://p2mu.net/blog">Blog</a>
 						</li>
 						<li>
 							<a href="portfolio.php">Portfolio</a>
@@ -79,7 +79,7 @@
 						<li>
 							<a href="contact.php">Contact Us</a>
 						</li>
-
+						
 					</ul>
 					
 				</nav>

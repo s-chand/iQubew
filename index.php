@@ -24,16 +24,14 @@
 								<h2>iQube Product updates</h2>
 							</div>
 							<hr/>
-							<div id="body" style="border-left:#000000 ;border-style:solid;margin-left:13px;margin-top:10px;margin-bottom:10px">
-								<p>....iQube news</p>
-								<p>....iQube news</p>
-								<p>....iQube news</p>
-								<p>....iQube news</p>
-								<p>....iQube news</p>
-								<p>....iQube news</p>
+							<div id="body" style="margin-left:13px;margin-top:10px;margin-bottom:0px">
+								<p><b>P2MU Alpha launch</b></b><br>iQube Labs officially launched the P2MU alpha version at the MWWA...<a href="http://iqubebase.com/p2mu/">Read More</a></p>
+								<p><b>MMe research</b><br/>iqube's mirror me (MMe) is a solution aimed at ...<a href="http://iqubebase.com/mmeapp/">Read More</a></p>
+								<p><b>V2Pix</b><br/>iQube's V2Pix is a tiimely solution to video to picture conversion. This..<a href="#">Read More</a></p>
+								<p><b>SDP</b><br/>iQube's Skill Development Platform is currently ongoing. This service was designed to help Africa overcome her ICT challenges..<a href="http://sdp.iqubebase.com">Read More</a></p>
 							</div>
-							<div id="legger" style="background-color:#000000;color:#FFFFFF;margin-bottom:-2px;border-radius:8px 0px 8px 0px">
-								<h2>Social media</h2>
+							<div id="legger" style="background-color:#000000;color:#FFFFFF;margin-bottom:-2px;border-radius:8px 0px 8px 0px;margin-left:5px;margin-right:5px;margin-top:20px">
+								<h2 style="margin-left:5px;margin-top:5px">Social media</h2>
 								<br/>
 								<p>Join us on: <a href="http://www.facebook.com/iqubebase"><img src="images2/facebook.png" /></a><a href="http://www.twitter.com/iQubebase"><img src="images2/twitter.png" /></a></p>
 							</div>
