@@ -20,6 +20,7 @@
 		<!--script type="text/javascript" src="js/detectmobilebrowser.js"></script-->
 		
 		<!-- Required stylesheet -->
+		
 	<link rel="stylesheet" href="core/deck.core.css">
 	
 	<!-- Extension CSS files go here. Remove or add as needed. -->
