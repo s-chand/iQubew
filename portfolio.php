@@ -85,16 +85,24 @@ include 'header.php';
 				relevant to our society and their personal career goals and aspirations.
 			</div>
 			<div class="span4 offset1" style="float:left">
-				<h2>Long Codes</h2>
-				LongCode is a cost effective way of interacting with your target audience via short message service using the popular Longcodes.
+				<h2>Image processing</h2>
+				Image Processing lies at the core of one of iQube's strengths. iQube provides image processing services and solutions customized to suit clients needs
 			</div>
 			<br/>
 			<br/>
 			<div class="span4 offset1" style="float:left">
-				<h2>SMS Word Korrector</h2>
-				Spelling errors are common problems usually faced by developers when developing "word" based applications. For example an SMS
-				based application which requires SMS to be sent from users/clients will be most often faced with the problem misspelled words among many
-				other problems that are also spelling errors.
+				<article class="span4 offset1" style="float:left">
+				<h2><a href="http://p2fx.net/gsms/" target="_blank">SMSEngine</a></h2>
+				<p>
+					SMSEngine is a product proudly developed
+					to provide
+					<br/>
+					SMS solutions
+					<br/>
+					to a wide range of users. How it works?<br/>
+					<a href="http://p2fx.net/gsms/">Read more</a>
+				</p>
+			</article>
 			</div>
 			<br/>
 			<div class="back" style="float:right">
@@ -108,7 +116,7 @@ include 'header.php';
 
 	<section class="slide" style="font-size:small">
 		<h2>Our Products</h2>
-		<div class="span12" style="font-size:small">
+		<div class="span12" style="font-size:small;font-family:Helvetica">
 			<article class="span4 offset1" style="float:left">
 				<h2>P2FX</h2>
 				<p>
@@ -116,18 +124,7 @@ include 'header.php';
 					Pleased To Find 'X'. Where 'X' is any geo-tagged item/service or POI (Point of Interest).
 				</p>
 			</article>
-			<article class="span4 offset1" style="float:left">
-				<h2><a href="http://p2fx.net/gsms/" target="_blank">GeoSMS</a></h2>
-				<p>
-					GeoSMS is a product proudly developed
-					to convert
-					<br/>
-					street addresses into
-					<br/>
-					longitude and latitude. How it works?<br/>
-					<a href="http://p2fx.net/gsms/">Read more</a>
-				</p>
-			</article>
+			
 			<article class="span4 offset1" style="float:left">
 				<h2>Workflow</h2>
 				<p>
@@ -135,6 +132,14 @@ include 'header.php';
 					It is able to manage operations and processes in an
 					environment where several tasks depend on the output
 					of some other initial tasks
+				</p>
+			</article>
+			<article class="span4 offset1" style="float:left">
+				<h2><a href="http://p2fx.net/gsms/" target="_blank">SMSEngine</a></h2>
+				<p>
+					SMSEngine is a product proudly developed<br/>
+					to provide SMS solutions<br/> to a wide range of users.<br/>
+					<a href="contact.php">Contact us</a> for more info
 				</p>
 			</article>
 			<div style="float:left">
@@ -158,6 +163,8 @@ include 'header.php';
 					iQube developed the core engine that fetches the
 					<br/>
 					closest match to a particular job criteria you search for.
+					<br/>
+					<a href="http://www.waserise.com/" target="_blank">Visit Solution</a>
 				</p>
 			</article>
 			<article class="span4 offset1" style="float:left">
@@ -185,6 +192,8 @@ include 'header.php';
 					equipped with excellent social media strategy
 					<br/>
 					delivering information real-time to her readers
+					<br/>
+					<a href="http://www.beegists.com/" target="_blank">Check it out!</a>
 				</p>
 			</article>
 			<div style="float:left">
@@ -198,28 +207,29 @@ include 'header.php';
 			</div-->
 		</div>
 	</section>
-	<section class="slide" style="font-size:small">
+	<section class="slide">
 		<h2>Our Technologies / Skills</h2>
 		
-			<ul style='font-size:medium; font-family:"OpenSans","Helvetica"'>
+			<ul class="main_right" style='font-size:medium;float:left;text-align:center'>
 				<li><h3>At iQube labs,we work with the following technologies</h3></li>
-				<li>PHP</li>
-				<li>MySQL/Oracle/MongoDB</li>
-				<li>Hadoop for Big data</li>
-				<li>Java</li>
-				<li>Perl</li>
-				<li>Python</li>
-				<li>Ruby (ROR)</li>
+				<li><img src="images2/php-icon.png" align="left" width="200px" height="150px"/></li>
+				<li><img src="images2/MySQL-logo.png" align="left" width="200px" height="150px" /></li>
+				<li><img src="images2/oracle-logo.jpg" align="left" width="200px" height="150px"/></li>
+				<li><img src="images2/mongodb-logo.png" align="left" width="200px" height="150px" /></li>
+				<li><img src="images2/hadoop-logo.jpg" align="left" width="200px" height="100px" /></li>
+				<li><img src="images2/java_logo.jpg" align="left" width="200px" height="100px"/></li>
+				<li><img src="images2/perl_logo.gif" align="left" width="200px" height="100px" /></li>
+				<li><img src="images2/python_logo.jpg" align="left" width="200px" height="100px" /></li>
+				
 				
 			</ul>
 
-			<ul style='font-size:medium; font-family:"OpenSans","Helvetica"'>
-				<li><h3>We also work on <br/>the following platforms</h3></li>
-				<li>Android</li>
-				<li>Linux</li>
-				<li>Windows/Windows8</li>
-				<li>Windows Phone</li>
-				<li>Nokia (Symbian, S40)</li>
+			<ul class="media-object" style='font-size:medium;;float:left'>
+				<li><h3>We also work on the following platforms</h3></li>
+				<li><img src="images2/Android_Logo.gif" align="left" width="200px" /></li>
+				<li><img src="images2/linux-logo.jpg" align="left" width="200px"  /></li>
+				<li><img src="images2/windows-logo.jpg" align="left" width="200px"  /></li>
+				<li><img src="images2/nokia-microsoft-logo.jpg" align="left" width="200px"  /></li>
 			</ul>
 		
 		<div class="back" style="float:right">

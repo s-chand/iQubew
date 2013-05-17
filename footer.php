@@ -5,7 +5,7 @@
 					<div style="text-align:center;width:1000px;margin-left:10%">
 						<table class="table">
 							<tr>
-								<td>Careers</td>
+								<td><a href="careers.php"> Careers</a></td>
 								<td><a href="portfolio.php#slide-1">Research</a></td>
 								<td>Staff</td>
 								<td>Services</td>
