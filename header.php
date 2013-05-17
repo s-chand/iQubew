@@ -71,7 +71,7 @@
 						</li>
 
 						<li>
-							<a href="http://p2mu.net/blog">Blog</a>
+							<a href="http://iqubebase.com/blog">Blog</a>
 						</li>
 						<li>
 							<a href="portfolio.php">Portfolio</a>

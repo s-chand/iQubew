@@ -2,24 +2,25 @@
 			<div class="container">
 				<div class="wrapper">
 					
-					<div style="text-align:center;width:1000px;margin-left:10%">
+					<div style="text-align:center;width:1000px;margin-left:10%;padding:10px">
 						<table class="table">
 							<tr>
 								<td><a href="careers.php"> Careers</a></td>
 								<td><a href="portfolio.php#slide-1">Research</a></td>
-								<td>Staff</td>
-								<td>Services</td>
+								<td><a href="">Staff</a></td>
+								<td><a href="">Services</a></td>
 							</tr>
 							<tr>
 								<td><a href="portfolio.php#slide-2">Products</a></td>
-								<td>Partners</td>
-								<td><a href="index.php">Powered by iQube labs</a></td>
+								<td><a href="">Partners</a></td>
+								<td><a href="about.php">FAQ</a></td>
 								<td><a href="http://p2mu.net/blog">Blog</a></td>
 							</tr>
 							<tr>
 								<td><a href="about.php">About</a></td>
 								<td><a href="portfolio.php#slide-1">Projects<a/></td>
-								<td><a href="about.php">FAQ</a></td>
+									<td><a href="index.php">Powered by iQube labs</a></td>
+								
 								<td><a href="">Demos</a></td>
 							</tr>
 						</table>
